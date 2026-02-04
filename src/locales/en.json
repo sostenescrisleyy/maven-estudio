@@ -1,0 +1,179 @@
+{
+  "nav": {
+    "sobre": "About",
+    "servicos": "Services",
+    "processo": "Process",
+    "resultados": "Results",
+    "portfolio": "Portfolio",
+    "faq": "FAQ",
+    "fazerOrcamento": "Get a quote"
+  },
+  "hero": {
+    "title": "Transform your brand",
+    "titleHighlight": "into a market leader",
+    "subtitle": "360º Agency specialized in Digital Marketing, Visual Identity, Automation, CRM and Artificial Intelligence to scale your business.",
+    "cta": "Get a quote",
+    "ctaSecondary": "View services"
+  },
+  "about": {
+    "label": "About Maven",
+    "title": "Much more than a",
+    "titleHighlight": "design agency",
+    "description1": "We are a complete marketing and technology agency. We integrate strategic design, web development, and data intelligence to create robust sales ecosystems.",
+    "description2": "Our mission is to provide all the necessary tools — from branding to CRM — for your company to grow consistently and automatically.",
+    "strategy": "360º Strategy",
+    "strategyDesc": "Holistic view connecting brand, traffic, and sales in a single direction.",
+    "consistency": "Technology",
+    "consistencyDesc": "Automations and systems that optimize processes and increase conversion.",
+    "differentiation": "Performance",
+    "differentiationDesc": "Obsessive focus on real metrics and return on investment (ROI).",
+    "connection": "Creativity",
+    "connectionDesc": "Visual and content solutions that capture attention and generate desire."
+  },
+  "process": {
+    "label": "Our Process",
+    "title": "How we work",
+    "titleHighlight": "together",
+    "description": "A structured process that ensures exceptional results at every stage of the project.",
+    "step1": "Diagnosis & Immersion",
+    "step1Desc": "We analyze your business, market, and current processes to identify opportunities and bottlenecks.",
+    "step2": "Strategic Planning",
+    "step2Desc": "We define the ideal action plan, whether for branding, technology, or customer acquisition.",
+    "step3": "Development & Creation",
+    "step3Desc": "We execute the project (Design, Dev, Traffic, or CRM) focusing on quality and performance.",
+    "step4": "Implementation & Testing",
+    "step4Desc": "We launch the solutions and perform rigorous functionality and usability tests.",
+    "step5": "Continuous Optimization",
+    "step5Desc": "We monitor results and adjust paths to maximize ROI and efficiency.",
+    "step6": "Scale",
+    "step6Desc": "With the validated funnel, we accelerate growth with expansion strategies."
+  },
+  "stats": {
+    "label": "Results",
+    "title": "Numbers that",
+    "titleHighlight": "speak for themselves",
+    "projects": "Projects",
+    "clients": "Clients",
+    "satisfaction": "Satisfaction",
+    "years": "Years"
+  },
+  "testimonials": {
+    "label": "Testimonials",
+    "title": "What our clients",
+    "titleHighlight": "say about us"
+  },
+  "portfolio": {
+    "label": "Portfolio",
+    "title": "Projects that",
+    "titleHighlight": "transform brands",
+    "description": "Check out some of our most recent work",
+    "viewProject": "View project",
+    "backToPortfolio": "Back to portfolio"
+  },
+  "videomaker": {
+    "label": "Audiovisual Production",
+    "title": "Stories that",
+    "titleHighlight": "come to life",
+    "description": "Cinematic audiovisual productions that connect and evoke emotion."
+  },
+  "faq": {
+    "label": "Frequently Asked Questions",
+    "title": "Clear your",
+    "titleHighlight": "doubts",
+    "description": "We answer the most common questions about our services. Didn't find what you're looking for? Contact us.",
+    "contactUs": "Contact us",
+    "questions": [
+      {
+        "question": "What is the average timeline for a visual identity project?",
+        "answer": "The timeline varies according to the project's complexity, but generally a complete project takes between 4 to 8 weeks, from strategic immersion to final delivery of the brand manual."
+      },
+      {
+        "question": "What is included in the visual identity project?",
+        "answer": "We include complete logo, color palette, typographies, applications in different contexts, detailed brand manual, editable files and technical support for implementation."
+      },
+      {
+        "question": "Do you work with redesign of existing brands?",
+        "answer": "Yes! We perform both creation of visual identities from scratch and strategic redesign of brands that need to reposition or evolve visually in the market."
+      },
+      {
+        "question": "How does investment in a project work?",
+        "answer": "The investment is defined after we understand the specific needs of your project. We send a detailed proposal with scope, deadlines and values. We work with facilitated installments."
+      },
+      {
+        "question": "Do you offer support after project delivery?",
+        "answer": "Yes! We offer technical support to ensure that the visual identity implementation happens correctly. We also provide additional consulting when necessary."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's create something",
+    "titleHighlight": "extraordinary",
+    "titleHighlight2": "together?",
+    "description": "Tell us about your project and receive a personalized proposal.",
+    "letsWork": "Let's work",
+    "together": "together",
+    "available": "Available for projects",
+    "description2": "Have a project in mind? We'd love to hear about it. Let's create something exceptional together.",
+    "email": "contato@mavenestudio.com.br",
+    "perfect": "Perfect",
+    "letsTalk": "Let's talk",
+    "bookCall": "Schedule a call",
+    "callDuration": "15 min call"
+  },
+  "footer": {
+    "description": "Complete marketing, technology, and design solutions for companies seeking market leadership.",
+    "navigation": "Navigation",
+    "services": "Services",
+    "legal": "Legal",
+    "identity": "Visual Identity",
+    "redesign": "Brand Redesign",
+    "consulting": "Consulting",
+    "naming": "Naming",
+    "terms": "Terms of Use",
+    "privacy": "Privacy",
+    "copyright": "All rights reserved.",
+    "madeBy": "Made by Maven Estúdio and Goiânia GO"
+  },
+  "form": {
+    "intro": {
+      "title": "Let's get started?",
+      "subtitle1": "Your answers are very important to us.",
+      "subtitle2": "We'll ask a few quick questions. It takes less than 1 minute!"
+    },
+    "steps": {
+      "name": "What is your full name?",
+      "email": "What is your email?",
+      "phone": "What is your phone or WhatsApp?",
+      "company": "What is your company name?",
+      "service": "What type of project do you need?",
+      "budget": "What is your estimated budget?",
+      "timeline": "What is the desired timeline for the project?",
+      "message": "Tell us about your project"
+    },
+    "placeholders": {
+      "name": "Enter your full name",
+      "email": "your@email.com",
+      "phone": "(00) 00000-0000",
+      "company": "Company name (optional)",
+      "message": "Briefly describe your project, objectives and challenges..."
+    },
+    "buttons": {
+      "start": "Start",
+      "continue": "Continue",
+      "previous": "Previous",
+      "send": "Send",
+      "sending": "Sending...",
+      "backToHome": "Back to home"
+    },
+    "success": {
+      "title": "Message sent!",
+      "description": "Thank you for your interest. Our team will contact you within 24 business hours."
+    },
+    "errors": {
+      "required": "This field is required",
+      "invalidEmail": "Please enter a valid email (e.g: your@email.com)",
+      "invalidPhone": "Please enter a valid phone (e.g: (11) 91234-5678)"
+    }
+  }
+}

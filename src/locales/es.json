@@ -1,0 +1,179 @@
+{
+  "nav": {
+    "sobre": "Acerca de",
+    "servicos": "Servicios",
+    "processo": "Proceso",
+    "resultados": "Resultados",
+    "portfolio": "Portafolio",
+    "faq": "Preguntas",
+    "fazerOrcamento": "Solicitar presupuesto"
+  },
+  "hero": {
+    "title": "Transforma tu marca",
+    "titleHighlight": "en referencia del mercado",
+    "subtitle": "Agencia 360º especializada en Marketing Digital, Identidad Visual, Automatización, CRM e Inteligencia Artificial para escalar tu negocio.",
+    "cta": "Solicitar presupuesto",
+    "ctaSecondary": "Ver servicios"
+  },
+  "about": {
+    "label": "Acerca de Maven",
+    "title": "Mucho más que una",
+    "titleHighlight": "agencia de diseño",
+    "description1": "Somos una agencia completa de marketing y tecnología. Integramos diseño estratégico, desarrollo web e inteligencia de datos para crear ecosistemas de ventas robustos.",
+    "description2": "Nuestra misión es proporcionar todas las herramientas necesarias — desde branding hasta CRM — para que tu empresa crezca de forma consistente y automatizada.",
+    "strategy": "Estrategia 360º",
+    "strategyDesc": "Visión holística que conecta marca, tráfico y ventas en una única dirección.",
+    "consistency": "Tecnología",
+    "consistencyDesc": "Automatizaciones y sistemas que optimizan procesos y aumentan la conversión.",
+    "differentiation": "Rendimiento",
+    "differentiationDesc": "Enfoque obsesivo en métricas reales y retorno de inversión (ROI).",
+    "connection": "Creatividad",
+    "connectionDesc": "Soluciones visuales y de contenido que capturan la atención y generan deseo."
+  },
+  "process": {
+    "label": "Nuestro Proceso",
+    "title": "Cómo trabajamos",
+    "titleHighlight": "juntos",
+    "description": "Un proceso estructurado que garantiza resultados excepcionales en cada etapa del proyecto.",
+    "step1": "Diagnóstico e Inmersión",
+    "step1Desc": "Analizamos tu negocio, mercado y procesos actuales para identificar oportunidades y cuellos de botella.",
+    "step2": "Planificación Estratégica",
+    "step2Desc": "Definimos el plan de acción ideal, ya sea para branding, tecnología o adquisición de clientes.",
+    "step3": "Desarrollo y Creación",
+    "step3Desc": "Ejecutamos el proyecto (Diseño, Dev, Tráfico o CRM) con enfoque en calidad y rendimiento.",
+    "step4": "Implementación y Pruebas",
+    "step4Desc": "Lanzamos las soluciones y realizamos pruebas rigurosas de funcionalidad y usabilidad.",
+    "step5": "Optimización Continua",
+    "step5Desc": "Monitoreamos los resultados y ajustamos rutas para maximizar el ROI y la eficiencia.",
+    "step6": "Escala",
+    "step6Desc": "Con el embudo validado, aceleramos el crecimiento con estrategias de expansión."
+  },
+  "stats": {
+    "label": "Resultados",
+    "title": "Números que",
+    "titleHighlight": "hablan por sí solos",
+    "projects": "Proyectos",
+    "clients": "Clientes",
+    "satisfaction": "Satisfacción",
+    "years": "Años"
+  },
+  "testimonials": {
+    "label": "Testimonios",
+    "title": "Lo que nuestros clientes",
+    "titleHighlight": "dicen sobre nosotros"
+  },
+  "portfolio": {
+    "label": "Portafolio",
+    "title": "Proyectos que",
+    "titleHighlight": "transforman marcas",
+    "description": "Conoce algunos de nuestros trabajos más recientes",
+    "viewProject": "Ver proyecto",
+    "backToPortfolio": "Volver al portafolio"
+  },
+  "videomaker": {
+    "label": "Producción Audiovisual",
+    "title": "Historias que",
+    "titleHighlight": "cobran vida",
+    "description": "Producciones audiovisuales cinematográficas que conectan y emocionan."
+  },
+  "faq": {
+    "label": "Preguntas Frecuentes",
+    "title": "Aclara tus",
+    "titleHighlight": "dudas",
+    "description": "Respondemos las preguntas más comunes sobre nuestros servicios. ¿No encontraste lo que buscas? Contáctanos.",
+    "contactUs": "Contáctanos",
+    "questions": [
+      {
+        "question": "¿Cuál es el plazo promedio de un proyecto de identidad visual?",
+        "answer": "El plazo varía según la complejidad del proyecto, pero generalmente un proyecto completo lleva entre 4 a 8 semanas, desde la inmersión estratégica hasta la entrega final del manual de marca."
+      },
+      {
+        "question": "¿Qué está incluido en el proyecto de identidad visual?",
+        "answer": "Incluimos logotipo completo, paleta de colores, tipografías, aplicaciones en diferentes contextos, manual de marca detallado, archivos editables y soporte técnico para implementación."
+      },
+      {
+        "question": "¿Trabajan con rediseño de marcas existentes?",
+        "answer": "¡Sí! Realizamos tanto creación de identidades visuales desde cero como rediseño estratégico de marcas que necesitan reposicionarse o evolucionar visualmente en el mercado."
+      },
+      {
+        "question": "¿Cómo funciona la inversión en un proyecto?",
+        "answer": "La inversión se define después de entender las necesidades específicas de tu proyecto. Enviamos una propuesta detallada con alcance, plazos y valores. Trabajamos con parcelación facilitada."
+      },
+      {
+        "question": "¿Ofrecen soporte después de la entrega del proyecto?",
+        "answer": "¡Sí! Ofrecemos soporte técnico para garantizar que la implementación de la identidad visual ocurra de forma correcta. También disponibilizamos consultoría adicional cuando sea necesario."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contacto",
+    "title": "Creemos algo",
+    "titleHighlight": "extraordinario",
+    "titleHighlight2": "juntos?",
+    "description": "Cuéntanos sobre tu proyecto y recibe una propuesta personalizada.",
+    "letsWork": "Trabajemos",
+    "together": "juntos",
+    "available": "Disponible para proyectos",
+    "description2": "¿Tienes un proyecto en mente? Nos encantaría saber más sobre él. Creemos algo excepcional juntos.",
+    "email": "contato@mavenestudio.com.br",
+    "perfect": "Perfecto",
+    "letsTalk": "Hablemos",
+    "bookCall": "Agendar conversación",
+    "callDuration": "15 min de conversación"
+  },
+  "footer": {
+    "description": "Soluciones completas de marketing, tecnología y diseño para empresas que buscan liderazgo de mercado.",
+    "navigation": "Navegación",
+    "services": "Servicios",
+    "legal": "Legal",
+    "identity": "Identidad Visual",
+    "redesign": "Rediseño de Marca",
+    "consulting": "Consultoría",
+    "naming": "Naming",
+    "terms": "Términos de Uso",
+    "privacy": "Privacidad",
+    "copyright": "Todos los derechos reservados.",
+    "madeBy": "Hecho por Maven Estúdio y Goiânia GO"
+  },
+  "form": {
+    "intro": {
+      "title": "¿Empezamos?",
+      "subtitle1": "Tus respuestas son muy importantes para nosotros.",
+      "subtitle2": "Haremos algunas preguntas rápidas. ¡Toma menos de 1 minuto!"
+    },
+    "steps": {
+      "name": "¿Cuál es tu nombre completo?",
+      "email": "¿Cuál es tu correo electrónico?",
+      "phone": "¿Cuál es tu teléfono o WhatsApp?",
+      "company": "¿Cuál es el nombre de tu empresa?",
+      "service": "¿Qué tipo de proyecto necesitas?",
+      "budget": "¿Cuál es tu presupuesto estimado?",
+      "timeline": "¿Cuál es el plazo deseado para el proyecto?",
+      "message": "Cuéntanos sobre tu proyecto"
+    },
+    "placeholders": {
+      "name": "Ingresa tu nombre completo",
+      "email": "tu@email.com",
+      "phone": "(00) 00000-0000",
+      "company": "Nombre de la empresa (opcional)",
+      "message": "Describe brevemente tu proyecto, objetivos y desafíos..."
+    },
+    "buttons": {
+      "start": "Comenzar",
+      "continue": "Continuar",
+      "previous": "Anterior",
+      "send": "Enviar",
+      "sending": "Enviando...",
+      "backToHome": "Volver al inicio"
+    },
+    "success": {
+      "title": "¡Mensaje enviado!",
+      "description": "Gracias por tu interés. Nuestro equipo te contactará en un plazo de 24 horas hábiles."
+    },
+    "errors": {
+      "required": "Este campo es obligatorio",
+      "invalidEmail": "Por favor, ingresa un correo válido (ej: tu@email.com)",
+      "invalidPhone": "Por favor, ingresa un teléfono válido (ej: (11) 91234-5678)"
+    }
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "nav": {
+    "sobre": "Sobre",
+    "servicos": "Serviços",
+    "processo": "Processo",
+    "resultados": "Resultados",
+    "portfolio": "Portfólio",
+    "faq": "FAQ",
+    "fazerOrcamento": "Fazer orçamento"
+  },
+  "hero": {
+    "title": "Transforme sua marca",
+    "titleHighlight": "em referência de mercado",
+    "subtitle": "Agência 360º especialista em Marketing Digital, Identidade Visual, Automação, CRM e Inteligência Artificial para escalar seu negócio.",
+    "cta": "Fazer orçamento",
+    "ctaSecondary": "Ver nossos serviços"
+  },
+  "about": {
+    "label": "Sobre a Maven",
+    "title": "Muito mais que uma",
+    "titleHighlight": "agência de design",
+    "description1": "Somos uma agência completa de marketing e tecnologia. Integramos design estratégico, desenvolvimento web e inteligência de dados para criar ecossistemas de vendas robustos.",
+    "description2": "Nossa missão é fornecer todas as ferramentas necessárias — do branding ao CRM — para que sua empresa cresça de forma consistente e automatizada.",
+    "strategy": "Estratégia 360º",
+    "strategyDesc": "Visão holística que conecta marca, tráfego e vendas em uma única direção.",
+    "consistency": "Tecnologia",
+    "consistencyDesc": "Automações e sistemas que otimizam processos e aumentam a conversão.",
+    "differentiation": "Performance",
+    "differentiationDesc": "Foco obsessivo em métricas reais e retorno sobre investimento (ROI).",
+    "connection": "Criatividade",
+    "connectionDesc": "Soluções visuais e de conteúdo que capturam a atenção e geram desejo."
+  },
+  "process": {
+    "label": "Nosso Processo",
+    "title": "Como trabalhamos",
+    "titleHighlight": "juntos",
+    "description": "Um processo estruturado que garante resultados excepcionais em cada etapa do projeto.",
+    "step1": "Diagnóstico & Imersão",
+    "step1Desc": "Analisamos seu negócio, mercado e processos atuais para identificar oportunidades e gargalos.",
+    "step2": "Planejamento Estratégico",
+    "step2Desc": "Definimos o plano de ação ideal, seja para branding, tecnologia ou aquisição de clientes.",
+    "step3": "Desenvolvimento & Criação",
+    "step3Desc": "Executamos o projeto (Design, Dev, Tráfego ou CRM) com foco em qualidade e performance.",
+    "step4": "Implementação & Testes",
+    "step4Desc": "Colocamos as soluções no ar e realizamos testes rigorosos de funcionalidade e usabilidade.",
+    "step5": "Otimização Contínua",
+    "step5Desc": "Monitoramos os resultados e ajustamos rotas para maximizar o ROI e a eficiência.",
+    "step6": "Escala",
+    "step6Desc": "Com o funil validado, aceleramos o crescimento com estratégias de expansão."
+  },
+  "stats": {
+    "label": "Resultados",
+    "title": "Números que",
+    "titleHighlight": "falam por si",
+    "projects": "Projetos",
+    "clients": "Clientes",
+    "satisfaction": "Satisfação",
+    "years": "Anos"
+  },
+  "testimonials": {
+    "label": "Depoimentos",
+    "title": "O que nossos clientes",
+    "titleHighlight": "dizem sobre nós"
+  },
+  "portfolio": {
+    "label": "Portfólio",
+    "title": "Projetos que",
+    "titleHighlight": "transformam marcas",
+    "description": "Conheça alguns dos nossos trabalhos mais recentes",
+    "viewProject": "Ver projeto",
+    "backToPortfolio": "Voltar ao portfólio"
+  },
+  "videomaker": {
+    "label": "Produção Audiovisual",
+    "title": "Histórias que",
+    "titleHighlight": "ganham vida",
+    "description": "Produções audiovisuais cinematográficas que conectam e emocionam."
+  },
+  "faq": {
+    "label": "Perguntas Frequentes",
+    "title": "Tire suas",
+    "titleHighlight": "dúvidas",
+    "description": "Respondemos às perguntas mais comuns sobre nossos serviços. Não encontrou o que procura? Entre em contato conosco.",
+    "contactUs": "Fale conosco",
+    "questions": [
+      {
+        "question": "Qual o prazo médio de um projeto de identidade visual?",
+        "answer": "O prazo varia de acordo com a complexidade do projeto, mas geralmente um projeto completo leva entre 4 a 8 semanas, desde a imersão estratégica até a entrega final do manual de marca."
+      },
+      {
+        "question": "O que está incluído no projeto de identidade visual?",
+        "answer": "Incluímos logotipo completo, paleta de cores, tipografias, aplicações em diferentes contextos, manual de marca detalhado, arquivos editáveis e suporte técnico para implementação."
+      },
+      {
+        "question": "Vocês trabalham com redesign de marcas existentes?",
+        "answer": "Sim! Realizamos tanto criação de identidades visuais do zero quanto redesign estratégico de marcas que precisam se reposicionar ou evoluir visualmente no mercado."
+      },
+      {
+        "question": "Como funciona o investimento em um projeto?",
+        "answer": "O investimento é definido após entendermos as necessidades específicas do seu projeto. Enviamos uma proposta detalhada com escopo, prazos e valores. Trabalhamos com parcelamento facilitado."
+      },
+      {
+        "question": "Vocês oferecem suporte após a entrega do projeto?",
+        "answer": "Sim! Oferecemos suporte técnico para garantir que a implementação da identidade visual aconteça de forma correta. Também disponibilizamos consultoria adicional quando necessário."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contato",
+    "title": "Vamos criar algo",
+    "titleHighlight": "extraordinário",
+    "titleHighlight2": "juntos?",
+    "description": "Conte-nos sobre seu projeto e receba uma proposta personalizada.",
+    "letsWork": "Vamos trabalhar",
+    "together": "juntos",
+    "available": "Disponível para projetos",
+    "description2": "Tem um projeto em mente? Adoraríamos saber mais sobre ele. Vamos criar algo excepcional juntos.",
+    "email": "contato@mavenestudio.com.br",
+    "perfect": "Perfeito",
+    "letsTalk": "Vamos conversar",
+    "bookCall": "Agendar conversa",
+    "callDuration": "15 min de conversa"
+  },
+  "footer": {
+    "description": "Soluções completas de marketing, tecnologia e design para empresas que buscam liderança de mercado.",
+    "navigation": "Navegação",
+    "services": "Serviços",
+    "legal": "Legal",
+    "identity": "Identidade Visual",
+    "redesign": "Redesign de Marca",
+    "consulting": "Consultoria",
+    "naming": "Naming",
+    "terms": "Termos de Uso",
+    "privacy": "Privacidade",
+    "copyright": "Todos os direitos reservados.",
+    "madeBy": "Feito por Maven Estúdio e Goiânia GO"
+  },
+  "form": {
+    "intro": {
+      "title": "Vamos começar?",
+      "subtitle1": "Suas respostas são muito importantes para nós.",
+      "subtitle2": "Vamos fazer algumas perguntas rápidas. Leva menos de 1 minuto!"
+    },
+    "steps": {
+      "name": "Qual é o seu nome completo?",
+      "email": "Qual é o seu e-mail?",
+      "phone": "Qual é o seu telefone ou WhatsApp?",
+      "company": "Qual é o nome da sua empresa?",
+      "service": "Que tipo de projeto você precisa?",
+      "budget": "Qual é o seu orçamento previsto?",
+      "timeline": "Qual é o prazo desejado para o projeto?",
+      "message": "Conte-nos sobre seu projeto"
+    },
+    "placeholders": {
+      "name": "Digite seu nome completo",
+      "email": "seu@email.com",
+      "phone": "(00) 00000-0000",
+      "company": "Nome da empresa (opcional)",
+      "message": "Descreva brevemente seu projeto, objetivos e desafios..."
+    },
+    "buttons": {
+      "start": "Começar",
+      "continue": "Continuar",
+      "previous": "Anterior",
+      "send": "Enviar",
+      "sending": "Enviando...",
+      "backToHome": "Voltar ao início"
+    },
+    "success": {
+      "title": "Mensagem enviada!",
+      "description": "Obrigado pelo interesse. Nossa equipe entrará em contato em até 24 horas úteis."
+    },
+    "errors": {
+      "required": "Este campo é obrigatório",
+      "invalidEmail": "Por favor, insira um e-mail válido (ex: seu@email.com)",
+      "invalidPhone": "Por favor, insira um telefone válido (ex: (11) 91234-5678)"
+    }
+  }
+}

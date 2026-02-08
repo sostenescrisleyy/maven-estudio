@@ -35,48 +35,42 @@ export default function NeuralNetworkHero({
   useGSAP(
     () => {
       if (!headerRef.current) return;
-      const fontsReady =
-        typeof document !== 'undefined' && (document as any).fonts?.ready
-          ? (document as any).fonts.ready
-          : Promise.resolve();
 
-      fontsReady.then(() => {
-        if (paraRef.current) {
-          gsap.set(paraRef.current, { autoAlpha: 0, y: 8 });
-        }
-        if (ctaRef.current) {
-          gsap.set(ctaRef.current, { autoAlpha: 0, y: 8 });
-        }
+      if (paraRef.current) {
+        gsap.set(paraRef.current, { autoAlpha: 0, y: 8 });
+      }
+      if (ctaRef.current) {
+        gsap.set(ctaRef.current, { autoAlpha: 0, y: 8 });
+      }
 
-        const tl = gsap.timeline({
-          defaults: { ease: 'power3.out' },
-        });
-
-        tl.fromTo(
-          headerRef.current,
-          {
-            filter: 'blur(16px)',
-            y: 30,
-            autoAlpha: 0,
-            scale: 1.02,
-          },
-          {
-            filter: 'blur(0px)',
-            y: 0,
-            autoAlpha: 1,
-            scale: 1,
-            duration: 0.9,
-          },
-          0.1,
-        );
-
-        if (paraRef.current) {
-          tl.to(paraRef.current, { autoAlpha: 1, y: 0, duration: 0.5 }, '-=0.55');
-        }
-        if (ctaRef.current) {
-          tl.to(ctaRef.current, { autoAlpha: 1, y: 0, duration: 0.5 }, '-=0.35');
-        }
+      const tl = gsap.timeline({
+        defaults: { ease: 'power3.out' },
       });
+
+      tl.fromTo(
+        headerRef.current,
+        {
+          filter: 'blur(16px)',
+          y: 30,
+          autoAlpha: 0,
+          scale: 1.02,
+        },
+        {
+          filter: 'blur(0px)',
+          y: 0,
+          autoAlpha: 1,
+          scale: 1,
+          duration: 0.7,
+        },
+        0,
+      );
+
+      if (paraRef.current) {
+        tl.to(paraRef.current, { autoAlpha: 1, y: 0, duration: 0.5 }, '-=0.5');
+      }
+      if (ctaRef.current) {
+        tl.to(ctaRef.current, { autoAlpha: 1, y: 0, duration: 0.5 }, '-=0.35');
+      }
     },
     { scope: sectionRef },
   );

@@ -59,7 +59,7 @@ export function Services() {
     ], []);
 
     return (
-        <section id="servicos" className="py-12 md:py-24 lg:py-32 relative overflow-hidden bg-background/50">
+        <section id="servicos" className="py-12 md:py-24 lg:py-32 relative overflow-hidden bg-background/50 w-full max-w-full">
             <AnimatedBackground />
 
             <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
